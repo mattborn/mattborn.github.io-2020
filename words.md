@@ -39,3 +39,5 @@ Having an exciting and successful career is such a blessing because it has suppo
 Right now, I am freelancing and actively interviewing for my next design leadership role.
 
 Looking for a design leader? [Let’s chat.](mailto:interview@mattborn.com)
+
+[View analytics for this site](https://plausible.io/mattborn.com)
