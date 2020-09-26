@@ -6,13 +6,18 @@ First published on September 26th, 2020
 
 My name is Matt Born. I am a designer from Chicago. My family of five currently resides in Salt Lake City where we helped start [Ridgeline Church](https://ridgeline.church). We like to travel, hike, dance, and be silly together as often as possible.
 
+I’m currently taking a break with my family and am leaving myself open to design leadership roles.
+
+Looking for a design leader? [Let’s chat.](mailto:interview@mattborn.com)
+
 ## What do you do?
 
-* **Graphic Design** — My wife & I run a non-profit called Reborn where we primarily do branding and interior design for churches all over the country. [See some of our work on Instagram ↗](https://www.instagram.com/designreborn)
-* **Web Design** — Before I became a product designer, I spent a decade as a freelancer designing and building websites for a wide range of clients from local businesses to Fortune 50 companies.
-* **Full Stack Development** — I am a seasoned Javascript writer and I love building immersive prototypes. My favorite programming concepts are routing, state management, component-based architectures, schema design, querying, webhooks, cloud functions, and event tracking. [Try my latest experiment →](/experiment/latest)
-* **User Research** — In 2015, I began studying Design Thinking and practicing Design Sprints. Since then, I have led 300+ user interviews and 30+ group workshops. I have learned how to continually improve the way I summarize and share key learnings. [Read some case studies →](/work)
 * **Digital Product Design** — I have worked in-house as a lone designer as well as with many designers, I have managed a team of designers, and I have managed teams of engineers. I have held the titles Front End Developer, Lead Developer, Product Designer, Senior Product Designer, Senior UX Designer, Lead Product Designer, Principal Designer, and Product Manager. [Follow me on LinkedIn ↗](https://www.linkedin.com/in/mattborn/)
+* **User Research** — In 2015, I began studying Design Thinking and practicing Design Sprints. Since then, I have led 300+ user interviews and 30+ group workshops. I have learned how to continually improve the way I summarize and share key learnings. [Read some case studies →](/work)
+* **Full Stack Development** — I am a seasoned Javascript writer and I love building immersive prototypes. My favorite programming concepts are routing, state management, component-based architectures, schema design, querying, webhooks, cloud functions, and event tracking. [Try my latest experiment →](/experiment/latest)
+* **Web Design** — Before I became a product designer, I spent a decade as a freelancer designing and building websites for a wide range of clients from local businesses to Fortune 50 companies.
+* **Graphic Design** — My wife & I run a non-profit called Reborn where we primarily do branding and interior design for churches all over the country. [See some of our work on Instagram ↗](https://www.instagram.com/designreborn)
+
 
 ## What do you want to do?
 
@@ -33,10 +38,6 @@ Throughout my career, I have helped countless companies test their ideas across 
 7. In the past 2 years, our non-profit has created 1,200+ deliverables for 30+ churches.
 
 Having an exciting and successful career is such a blessing because it has supported our greatest accomplishment—a healthy family and lifestyle.
-
-## What’s next?
-
-Right now, I am freelancing and actively interviewing for my next design leadership role.
 
 Looking for a design leader? [Let’s chat.](mailto:interview@mattborn.com)
 
