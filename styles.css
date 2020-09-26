@@ -2,7 +2,7 @@
 
 :root {
   --background-color: #ffe6dd;
-  --link-color: ;
+  --link-color: #36f;
   --text-color: #557;
   --title-color: #335;
   --white: #fff;
@@ -36,13 +36,24 @@ h2 {
 li { margin-bottom: 16px; }
 li strong { color: var(--title-color); }
 
+/* https://www.dannyguo.com/blog/animated-multiline-link-underlines-with-css/ */
 a {
-  border-bottom: 1px solid #36f6;
-  color: #36f;
-  display: inline-block;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  color: var(--link-color);
   text-decoration: none;
+  transition: background-size .5s cubic-bezier(.1,1,.3,1);
 }
-a:hover { border-color: #36f; }
+a:focus,
+a:hover { background-size: 100% 2px; }
+
+.External::after {
+  content: '↗';
+  margin-left: .2em;
+  vertical-align: middle;
+}
 
 .Center {
   margin: 0 auto;

@@ -32,7 +32,10 @@ function wrapSiblings(selector) {
 
 function externalizeLinks() {
   // open external links in a new tab
-  document.querySelectorAll('a[href^=h]').forEach(link => link.target = '_blank')
+  document.querySelectorAll('a[href^=h]').forEach(link => {
+    link.classList.add('External')
+    link.target = '_blank'
+  })
 }
 
 function centerSections(selector = document.body) {
