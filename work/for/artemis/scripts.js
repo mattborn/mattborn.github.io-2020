@@ -1,4 +1,4 @@
-fetch('./words.md')
+fetch('./cohorts.md')
   .then(response => response.text())
   .then(text => render(text))
 
