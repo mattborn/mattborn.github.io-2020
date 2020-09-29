@@ -1,14 +1,18 @@
+<div class="Smallcaps">Version 20.0</div>
+
 # Q&A with Matt
 
 First published on September 26th, 2020
 
+## What’s up?
+
+<p class="Lede">I’m currently taking a break with my family and am leaving myself open to design leadership roles.</p>
+
+Looking for a design leader? [Let’s chat.](mailto:interview@mattborn.com)
+
 ## Who are you?
 
 My name is Matt Born. I am a designer from Chicago. My family of five currently resides in Salt Lake City where we helped start [Ridgeline Church](https://ridgeline.church). We like to travel, hike, dance, and be silly together as often as possible.
-
-I’m currently taking a break with my family and am leaving myself open to design leadership roles.
-
-Looking for a design leader? [Let’s chat.](mailto:interview@mattborn.com)
 
 ## What do you do?
 

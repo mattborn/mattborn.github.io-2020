@@ -1,6 +1,8 @@
-Case Study
+<div class="Smallcaps">Case Study</div>
 
 # How I helped my team find non-obvious answers to address high stakes usability problems
+
+![Cohort Flow 2](https://res.cloudinary.com/dlb7hetnl/image/upload/v1601334073/DC-E2E-Flow-1-5_gcbs15.png)
 
 <p class="Lede">Getting past what our clients were requesting to understand <strong><em>what they really needed</em></strong> took a couple months and resulted in an elegant, feedback-driven solution that saves countless hours on both sides.<p>
 
@@ -22,13 +24,17 @@ We called these **Dynamic Cohorts.™**
 
 Over the course of 7 weeks, I designed over 150 screens in Sketch and created several click-through prototypes in InVision. Each week, we tested with internal and external users including key stakeholders from our top consultant partner and our largest customer **representing hundreds of thousands of Amercian lives in our system.**
 
-I cannot share everything associated with this project, but here are a few screens from the production reference deck:
+As such, I cannot share everything associated with this project, but here are a few screens from the production reference deck:
 
 ![Cohorts List](https://res.cloudinary.com/dlb7hetnl/image/upload/v1601334074/Cohorts-App-HCCs_qpu5c0.png)
 
 ![Cohort Flow 1](https://res.cloudinary.com/dlb7hetnl/image/upload/v1601334074/DC-E2E-Flow-1-2_ecr3fw.png)
 
 ![Cohort Flow 2](https://res.cloudinary.com/dlb7hetnl/image/upload/v1601334073/DC-E2E-Flow-1-5_gcbs15.png)
+
+## Over the line
+
+We mapped the problem. We sketched and prototyped possible solutions. We tested and shipped the pre-validated experience. And as the lead designer for Artemis, I was responsible for leading my team through this process and creating all design assets.
 
 ## Still curious?
 
