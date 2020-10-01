@@ -1,7 +1,7 @@
-@import url('https://use.fontawesome.com/releases/v5.15.0/css/all.css');
+@import url('https://use.fontawesome.com/releases/v5.14.0/css/all.css');
 
 :root {
-  --background-color: #fff;
+  --background-color: #ffe6dd;
   --link-color: #36f;
   --text-color: #557;
   --title-color: #335;
@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-  color: #013;
+  color: #63f;
   font-size: 72px;
   letter-spacing: -.02em;
   line-height: 1;
@@ -78,23 +78,6 @@ img {
 
 /* common appearance? */
 
-.Button {
-  align-items: center;
-  background: var(--link-color);
-  border-radius: 4px;
-  color: var(--white);
-  display: inline-flex;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 20px;
-  padding: 16px 20px;
-}
-.Button i {
-  font-size: 24px;
-  margin-right: 8px;
-}
-.Button:hover { background: #63f; }
-
 .Lede {
   font-size: 40px;
   line-height: 1.3;
@@ -119,22 +102,3 @@ body > div:first-child {
   h1 { font-size: 40px; }
   .Lede { font-size: 30px; }
 }
-
-/* Version 20.1 */
-
-#Words {
-  line-height: 1.2;
-  padding-top: 32px;
-}
-
-.Word {
-  margin: -.25em 0;
-  overflow: hidden;
-}
-.Word > div {
-  opacity: 1;
-  transform: translateY(0);
-  transition: .5s cubic-bezier(.1,1,.3,1);
-}
-.move > div { transform: translateY(-100%); }
-.move > div:first-child { opacity: 0; }
