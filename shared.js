@@ -38,3 +38,10 @@ function wrapSiblings(selector) {
 
   })
 }
+
+function hoistCodeClasses() {
+  document.querySelectorAll('pre > code').forEach(code => {
+    code.parentNode.classList.add(code.className || 'language-markup')
+    code.removeAttribute('class')
+  })
+}
