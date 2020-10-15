@@ -5,7 +5,6 @@
   --link-color: #36f;
   --text-color: #557;
   --title-color: #335;
-  --white: #fff;
 }
 
 /* cascade */
@@ -64,6 +63,14 @@ a:hover { background-size: 100% 2px; }
   vertical-align: middle;
 }
 
+button {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font-size: inherit;
+}
+
 img {
   max-width: 100%;
   vertical-align: bottom;
@@ -82,7 +89,7 @@ img {
   align-items: center;
   background: var(--link-color);
   border-radius: 4px;
-  color: var(--white);
+  color: #fff;
   display: inline-flex;
   font-size: 16px;
   font-weight: 600;
@@ -94,6 +101,16 @@ img {
   margin-right: 8px;
 }
 .Button:hover { background: #63f; }
+
+.Copyable { position: relative; }
+pre + button {
+  padding: 12px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 44px;
+}
+pre + button:hover { color: #fff; }
 
 .Lede {
   font-size: 40px;
