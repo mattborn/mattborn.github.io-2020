@@ -19,3 +19,5 @@ A collection of copyable code snippets inspired by [Tailwind UI](https://tailwin
   </body>
 </html>
 ```
+
+[← View previous experiment](/experiment/2040/)

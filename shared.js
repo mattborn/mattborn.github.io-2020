@@ -1,8 +1,8 @@
 // learn about these three at https://mattborn.com/experiment/2039/
 
-function centerSections(selector = document.body) {
+function centerSections(selector = 'body') {
   // wrap all content children innerHTML with div.Center
-  Array.from(selector.children).forEach(child => {
+  Array.from(document.querySelector(selector).children).forEach(child => {
     const div = document.createElement('div')
     div.className = 'Center'
     while (child.firstChild) div.appendChild(child.firstChild)

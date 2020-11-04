@@ -69,6 +69,7 @@ button {
   color: inherit;
   cursor: pointer;
   font-size: inherit;
+  font-weight: inherit;
 }
 
 img {
