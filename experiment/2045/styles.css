@@ -1,0 +1,60 @@
+
+/* hide & show */
+
+#list,
+#item,
+.page,
+.tab,
+.panel { display: none; }
+
+#list.show,
+.page.show,
+.tab.show,
+.panel.show  { display: flex !important; }
+
+#item.show { display: flex !important; }
+
+/* layout */
+
+#template, #render, #menu, #page, #main, #tabs, #side { display: flex; }
+#template, #render, #page, #main, #side { flex-direction: column; }
+#page, #list, #item, #main, #tab, #panel { flex: 1; }
+#list, #tab, #panel { overflow: auto; }
+#side { flex-basis: 360px; }
+
+/* look */
+
+#template,
+#render {
+  border-radius: 12px;
+  box-shadow: 10px 20px 60px #0133;
+  font-size: 15px;
+  font-weight: 600;
+  height: calc(100vh - 48px);
+  margin: 24px;
+  padding: 0;
+}
+
+#menu {
+  border-bottom: 1px solid #7792;
+  padding: 8px;
+}
+#menu > div,
+#tabs > div {
+  border-radius: 4px;
+  color: #779;
+  cursor: pointer;
+  padding: 8px;
+}
+#menu > div:focus {}
+#menu > div:hover,
+#tabs > div:hover {
+  background: #7791;
+  color: #335;
+}
+#menu > .active,
+#tabs > .active { color: #36f; }
+
+#page {}
+#tabs { padding: 8px; }
+#tab { padding: 24px; }

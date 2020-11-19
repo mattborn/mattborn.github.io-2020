@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+    <title>M B — Experiment # 2045</title>
+  </head>
+  <body>
+    <div id="template">
+      <div id="menu">
+        <div data-route="a">Page A</div>
+        <div data-route="b">Page B</div>
+        <div data-panel="uno">Panel Uno</div>
+        <div data-panel="dos">Panel Dos</div>
+        <div data-route="b/0">Data 1</div>
+        <div data-route="b/1">Data 2</div>
+      </div>
+      <div id="page"></div>
+    </div>
+    <div class="page" id="a">
+      <h1>Page A</h1>
+      <p>After spending 20+ hours on this experiment, I am deeming it a failure. Here’s what I learned:</p>
+      <ul>
+        <li>A page needs more reference for its state than just a route and template. Perhaps, a config object per page?</li>
+        <li>It would probably be better to have a special character for “progressive routes” that extend the current context instead of multiple data attributes. <a href="https://vanillajstoolkit.com/helpers/router/">The Vanilla JS Toolkit</a> does this, but their code is sloppy.</li>
+        <li>Since the process of distilling down to the necessary bits of logic was so mind-bending, I should consider making this an open source project.</li>
+        <li>Either way, there are plenty of good bits in this code and I shall try again later.</li>
+      </ul>
+    </div>
+    <div class="page" id="b">
+      <div id="list">
+        <h1>Page B</h1>
+        <h2>List</h2>
+        <div data-route="b/0">Data 1</div>
+        <div data-route="b/1">Data 2</div>
+      </div>
+      <div id="item">
+        <div id="main">
+          <div id="tabs">
+            <div data-route="b/0/alpha">Tab Alpha</div>
+            <div data-route="b/0/beta">Tab Beta</div>
+          </div>
+          <div id="tab">
+            <div class="tab" id="alpha">
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+              <h2>Alpha</h2>
+            </div>
+            <div class="tab" id="beta">
+              <h2>Beta</h2>
+            </div>
+          </div>
+        </div>
+        <div id="side">
+          <div id="panels">
+            <div data-panel="uno">Panel Uno</div>
+            <div data-panel="dos">Panel Dos</div>
+          </div>
+          <div id="panel">
+            <div class="panel" id="uno">
+              <h3>Uno</h3>
+            </div>
+            <div class="panel" id="dos">
+              <h3>Dos</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
