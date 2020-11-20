@@ -1,0 +1,80 @@
+
+/* boilerplate */
+
+.Billboard {
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  min-height: 80vh;
+  padding: 2em;
+}
+.Billboard-Image {}
+.Billboard-Title {
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0 0 24px;
+}
+.Billboard-Lede { margin: 0 0 24px; }
+.Billboard-Button {
+  background: #63f;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  padding: 16px 24px;
+}
+.Billboard .Center {
+  box-sizing: border-box;
+  flex: 0 1 800px;
+}
+
+/* first billboard */
+
+.fa-bold {
+  background: #013;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 24px;
+  padding: .5em 1.5em;
+}
+@media only screen and (min-width: 767px) {
+  .First .Center { padding-right: 400px; }
+}
+
+/* background image */
+
+.Image-Background {
+  background: url(https://images.unsplash.com/photo-1594842822179-73596ee5d10a?w=1920) center / cover;
+  color: #fff;
+}
+@media only screen and (min-width: 767px) {
+  .Image-Background .Center { padding-right: 300px; }
+}
+
+/* card style */
+
+.Card {
+  border-radius: 12px;
+  box-shadow: 10px 20px 60px #0133;
+  margin: 48px;
+}
+
+/* split layout */
+
+.Split .Center { display: flex; }
+.Split .Billboard-Text { padding-right: 24px; }
+.Split .Billboard-Image { max-width: 50%; }
+
+/* colorful */
+
+.Colorful {
+  background: linear-gradient(-10deg, #f06, #63f, #3ff);
+  color: #fff;
+}
+.Colorful .Billboard-Button {
+  background: #fff;
+  color: #63f;
+}
