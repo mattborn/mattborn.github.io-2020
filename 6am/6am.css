@@ -1,0 +1,4 @@
+body > div { padding: 0; }
+#readme > div { padding: 24px; }
+#readme > div:nth-child(even) { background: #eee9e3; }
+.Center { max-width: 600px; }
