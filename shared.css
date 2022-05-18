@@ -1,4 +1,4 @@
-@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css');
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
 
 :root {
   --background-color: #fff;
@@ -71,6 +71,11 @@ button {
   font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
+}
+
+i {
+  text-align: center;
+  width: 1.2em;
 }
 
 img {
