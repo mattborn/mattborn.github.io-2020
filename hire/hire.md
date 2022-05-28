@@ -26,9 +26,6 @@ Here are some resources that might be helpful.
 
 ## What am I looking for?
 
-* to demonstrably solve real problems for real people #purpose
-* a balance between designing with and managing designers #mastery
-* under 15 hours per week in Zoom meetings #autonomy
-* 215k – 275k total comp target (base + equity) #family
+Let’s chat about this. :)
 
 [← Back to Home](/)
