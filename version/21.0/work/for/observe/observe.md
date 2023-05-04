@@ -16,5 +16,5 @@ This was a video I shared with the Sift design team after they acquired Chargeba
 
 ## More links
 
-* [Resume and other hiring resources](/hire)
+* [Resume and other hiring resources](/version/21.0/hire)
 * [Old portfolio site](/archive)
