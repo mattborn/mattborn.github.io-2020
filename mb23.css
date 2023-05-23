@@ -1,0 +1,29 @@
+body {
+  overflow: hidden;
+}
+
+video {
+  height: 120vh;
+  left: -10vw;
+  object-fit: cover;
+  position: absolute;
+  top: -10vh;
+  width: 120vw;
+}
+
+a {
+  align-items: center;
+  color: white;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  text-decoration: none;
+}
+a:hover {
+  opacity: 1;
+}
